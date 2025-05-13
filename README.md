@@ -1,4 +1,4 @@
-# PIL1_2223_4 | Projet d'intégration IFRI 2022 - 2023 GROUPE 4
+# GestionTime_FPBM | Projet fin module Python avancé - 2024-2025
 
 ## Description
 
