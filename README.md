@@ -2,7 +2,7 @@
 
 ## Description
 
-Le projet d'intégration IFRI 2022 est un projet qui consiste à déployer une application capable de gérer la planification des emplois du temps.
+Le projet GestionTime_FPBM  est un projet qui consiste à déployer une application capable de gérer la planification des emplois du temps.
 
 ## Preview
 
